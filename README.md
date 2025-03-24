@@ -1,0 +1,1 @@
+Project Title :- SCM project description:- it used to manage source code of my project.installation steps: first make the id on github then gitbash for furthur work. usage:-it used to amange the source code
